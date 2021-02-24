@@ -85,6 +85,7 @@
 
 * [二叉树学习手册开放下载！！](https://mp.weixin.qq.com/s/uSyeCq0UF6kwRKcWkLnXuw)
 * [回溯算法学习手册开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
+* [贪心算法学习手册开放下载！！](https://mp.weixin.qq.com/s/dUUWPVB7aVMpStPOG8cKnQ)
 
 （将陆续整理各个专题的PDF下载版本）
 
@@ -264,6 +265,10 @@
 
 ## 贪心算法 
 
+题目分类大纲如下：             
+
+<img src='https://img-blog.csdnimg.cn/20210220152245584.png' width=600 alt='贪心算法大纲'> </img></div>
+
 1. [关于贪心算法，你该了解这些！](https://mp.weixin.qq.com/s/O935TaoHE9Eexwe_vSbRAg)
 2. [贪心算法：分发饼干](https://mp.weixin.qq.com/s/YSuLIAYyRGlyxbp9BNC1uw)
 3. [贪心算法：摆动序列](https://mp.weixin.qq.com/s/Xytl05kX8LZZ1iWWqjMoHA)
@@ -321,6 +326,9 @@
 25. [本周小结！（动态规划系列五）](https://mp.weixin.qq.com/s/znj-9j8mWymRFaPjJN2Qnw)
 26. [动态规划：单词拆分](https://mp.weixin.qq.com/s/3Spx1B6MbIYjS8YkVbByzA)
 27. [动态规划：关于多重背包，你该了解这些！](https://mp.weixin.qq.com/s/b-UUUmbvG7URWyCjQkiuuQ)
+28. [听说背包问题很难？ 这篇总结篇来拯救你了](https://mp.weixin.qq.com/s/ZOehl3U1mDiyOQjFG1wNJA)
+29. [动态规划：开始打家劫舍！](https://mp.weixin.qq.com/s/UZ31WdLEEFmBegdgLkJ8Dw)
+30. [动态规划：继续打家劫舍！](https://mp.weixin.qq.com/s/kKPx4HpH3RArbRcxAVHbeQ)
 
 
 （持续更新中....）
@@ -363,4 +371,4 @@
 
 <a name="公众号"></a>
 
-![](https://img-blog.csdnimg.cn/20210205113044152.png)
+![](./pics/公众号.png)
